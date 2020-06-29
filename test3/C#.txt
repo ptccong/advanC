@@ -1,0 +1,9 @@
+Generics :là  một trong 4 thành phần cấu thành LINQ(Extension method, Delegate, Lambda Expression và yield)
+Delegate: khởi tạo, ủy quyền
+lambla Expression :là phương thức lạc danh  Tinhtong tong = (int x,int y)=>{ return x+y;};
+Event : cơ chế của lớp này thông báo cho lớp khác.
+Dynamic : là kiểu vô danh từ class cha truy xuất đến các phần từ bên trong nó.
+LINQ:ngôn ngữ truy vấn tích hợp trong c;
+Extension method : tính năng đột phát trong C . Cho phép viết code đẹp dễ đọc hơn
+Excepsion handing : sử lý ngoại lệ try{ bắt lỗi trong đoạn code thực thi}cacth{sử lý lỗi vd: in code ra màn hình}
+Async_Await : sử lý bất đồng bộ vd như hàm nào chạy trước ,sau,hay chạy cùng một lúc;
